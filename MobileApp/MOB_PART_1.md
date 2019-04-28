@@ -2,6 +2,7 @@
 
 In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
 
+이번 실습에서는 수 작업으로 하고 있는 출장 승인 요청을 자동화하는 애플리케이션을 개발 합니다. 또한 애플리케이션에서는 공개되어 있는 REST API을 호출하고 통합합니다.
 
 ![alt text](../resources/images/myTravel1.jpeg "Logo Title Text 1") ![alt text](../resources/images/MyTravel2.jpeg "Logo Title Text 1")
 
@@ -9,13 +10,13 @@ In this lab you’ll create an application that automates a process of approving
 
 ## 1. 애플리케이션 생성
 
-Click the **`New`** button
+**`New`** 버튼을 클릭합니다.
 
-Provide a name for your application –  **`<YourName> Travel Approval`**
+애플리케이션 이름을 입력합니다. –  **`<영문이름> Travel Approval`**
  
 ![alt text](../resources/images/mob/2.png "Logo Title Text 1") 
 
-Click **`Finish`** to complete the creation of your application.
+**`Finish`** 을 클릭하여 애플리케이션을 생성을 완료 합니다.
 
 > *You are now taken into the design environment where you’ll develop your application visually.*
 > *From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.*
