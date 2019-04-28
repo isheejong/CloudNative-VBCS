@@ -1,7 +1,5 @@
 # Oracle Visual Builder Cloud Service 를 이용하여 ''*myTravel*'' 모바일 앱 개발
 
-In this lab you’ll create an application that automates a process of approving travel requests that is currently done in spreadsheets. You will also call a public REST service and incorporate the results into your application.
-
 이번 실습에서는 수 작업으로 하고 있는 출장 승인 요청을 자동화하는 애플리케이션을 개발 합니다. 또한 애플리케이션에서는 공개되어 있는 REST API을 호출하고 통합합니다.
 
 ![alt text](../resources/images/myTravel1.jpeg "Logo Title Text 1") ![alt text](../resources/images/MyTravel2.jpeg "Logo Title Text 1")
@@ -18,10 +16,12 @@ In this lab you’ll create an application that automates a process of approving
 
 **`Finish`** 을 클릭하여 애플리케이션을 생성을 완료 합니다.
 
-> *You are now taken into the design environment where you’ll develop your application visually.*
-> *From here you can create mobile or web applications, connect to external REST services (Service Connections), integrate with other processes (Process Cloud) or you can create your own Business Objects.*
 
-## 2. Create Business Objects
+> 이제 애플리케이션의 UI를 개발하는 디자인 단계로 들어갑니다. 
+> 여기에서 모바일 또는 웹 응용 프로그램을 만들거나, 외부 REST 서비스 (서비스 연결)에 연결하거나, 다른 프로세스 (Process Cloud)와 통합하거나 자신 만의 Business Objects를 만들 수 있습니다.
+
+
+## 2. 비즈니스 오브젝트 생성
 
 > *You will create Business Objects to store data by importing an existing spreadsheet. You will then edit the Business Objects, adding fields and setting default values and creating a relationship between objects*
 
